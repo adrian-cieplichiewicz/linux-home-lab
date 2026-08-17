@@ -1,6 +1,7 @@
 # Linux-home-lab
 
 To moje pierwsze repozytorium związane z administracją Linuxem.
+This repository contains my Linux administration learning projects.
 
 ## Cel projektu
 
