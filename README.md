@@ -44,7 +44,7 @@ So far I have completed projects covering:
 
 * "notes/" - notes from each project
 * "screenshots/" - screenshots documenting project results
-* "project-XX/" - files created during individual projects
+* "projekt-XX/" - files created during individual projects
 
 ## Current goal
 
