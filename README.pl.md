@@ -42,7 +42,7 @@ Do tej pory wykonałem projekty związane między innymi z:
 
 * "notes/" - notatki z poszczególnych projektów
 * "screenshots/" - screeny dokumentujące wykonane projekty
-* "project-XX/" - pliki utworzone podczas poszczególnych projektów
+* "projekt-XX/" - pliki utworzone podczas poszczególnych projektów
 
 ## Obecny cel
 
